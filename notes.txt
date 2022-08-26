@@ -1,0 +1,44 @@
+
+npm install mongoose
+
+
+
+
+
+seeds*************
+{
+  "pizzaName": "The Demo Pizza",
+  "createdBy": "Lernantino",
+  "size": "Personal",
+  "toppings": [
+    "Sausage",
+    "Pepperoni",
+    "Cherry Peppers"
+  ]
+},
+{
+  "pizzaName": "The Burger Pizza",
+  "createdBy": "Shelly",
+  "size": "Large",
+  "toppings": [
+    "Sausage",
+    "Pepperoni",
+    "Cherry Peppers",
+		"oninon"
+  ]
+},
+{
+  "pizzaName": "The Brad Pizza",
+  "createdBy": "Brad",
+  "size": "Medium",
+  "toppings": [
+    "Beef",
+    "Pepperoni",
+    "Cherry Peppers",
+		"oninon"
+  ]
+}
+
+
+63066242bb880e9347dad807
+630915eb04920d6848e23091
